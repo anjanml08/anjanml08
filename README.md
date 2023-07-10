@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Data Structures and Algorithm using Python, Networking Basics.**
+- 🌱 I’m currently learning **Django, Data Structures and Algorithm using Python, and Networking Basics.**
 
 - 📫 How to reach me **anjan7201@gmail.com**
 
